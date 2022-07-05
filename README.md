@@ -1,6 +1,6 @@
 # lab-spring-boot
 
-## Branch: main
+## Branch: gradle
 
 ### Maven
 
