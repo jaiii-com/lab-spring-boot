@@ -34,7 +34,8 @@
 				"redhat.vscode-xml",
 				"redhat.fabric8-analytics",
 				"SonarSource.sonarlint-vscode",
-				"shengchen.vscode-checkstyle"
+				"shengchen.vscode-checkstyle",
+				"mhutchie.git-graph"
 			]
 		}
 	},
